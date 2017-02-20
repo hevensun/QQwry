@@ -1,2 +1,2 @@
 # QQwry
-ip address query
+ip address query using php
